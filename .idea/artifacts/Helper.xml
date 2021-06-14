@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Helper">
+    <output-path>$PROJECT_DIR$/out/artifacts/Helper</output-path>
+    <root id="archive" name="Helper.jar">
+      <element id="module-output" name="AtoJava" />
+    </root>
+  </artifact>
+</component>
